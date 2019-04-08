@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DEGoodmanWilson/easy-peasy-bot-app.git"
+    "url": "git+https://github.com/jess17a/know_nothing_bot/tree/master/know-nothing-bot.git"
   },
   "keywords": [
     "slack",
@@ -18,9 +18,9 @@
   "author": "D.E. Goodman-Wilson",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/DEGoodmanWilson/easy-peasy-bot-app/issues"
+    "url": "https://github.com/jess17a/know_nothing_bot/tree/master/know-nothing-bot/issues"
   },
-  "homepage": "https://github.com/DEGoodmanWilson/easy-peasy-bot-app#readme",
+  "homepage": "https://github.com/jess17a/know_nothing_bot/tree/master/know-nothing-bot#readme",
   "engines": {
     "node": "5.1.1"
   },
